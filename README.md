@@ -7,7 +7,7 @@
 - [Features](#features)
 - [Usage](#usage)
 - [Security](#security)
-- [License](#license)
+- [Verified Contract On Etherscan](#verified-contract-on-etherscan)
 
 ---
 
