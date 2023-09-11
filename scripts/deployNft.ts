@@ -5,10 +5,13 @@ async function main() {
   const nft = await ethers.deployContract("MyNft", []);
 
   await nft.waitForDeployment();
+  console.log("============deploying===========")
 
   console.log(
     `NFT contract deployed to ${nft.target}`
   );
+
+  console.log("============deployment completed===========")
 }
 
 
